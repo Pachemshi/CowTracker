@@ -1,6 +1,6 @@
 # CowTracker
 
- - **CowTrack** is a simple program to Register a herd; 
+ - **CowTracker** is a simple program to Register a herd; 
  - It was designed to register **dairy cows**, but can be easily modified to *Beef cattle*,
 or flock of *sheep*.
  - There is no user input validations yet.
